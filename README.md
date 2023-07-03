@@ -11,7 +11,7 @@
 1. 프론트엔드
 
 - React (create-react-app으로 구현되었습니다.)
-- React Bootstrap
+- React Bootstrap, MUI
 - axios
 
 2. 백엔드
@@ -34,3 +34,11 @@ yarn start
 ```bash
 back 폴더 내부 README 참고
 ```
+
+<br />
+
+## 🎥 Demo Vedio
+
+---
+
+[![포트폴리오 공유서비스 시연영상](http://img.youtube.com/vi/SOX8Teh-B1c/0.jpg)](https://www.youtube.com/watch?v=SOX8Teh-B1c "포트폴리오 공유서비스 시연영상")
